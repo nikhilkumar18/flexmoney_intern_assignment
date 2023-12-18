@@ -1,5 +1,14 @@
 # flexmoney_intern_assignment
 
+The complete implementation of my project has been explained in below video:
+
+NOTE:THE Audio of the video is low. So try to listen in high volume (>90) or use earphones.
+
+URL:
+https://youtu.be/rGCUvoEZXlg?feature=shared
+
+
+
 Project Overview
 Folder Structure
 The project consists of two main folders:
